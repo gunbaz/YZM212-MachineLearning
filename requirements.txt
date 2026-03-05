@@ -1,2 +1,2 @@
-echo hmmlearn==0.3.3 
-echo numpy==1.26.4 
+hmmlearn==0.3.3 
+numpy==1.26.4 
